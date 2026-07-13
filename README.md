@@ -1,78 +1,64 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/type=waving&color=007ACC&height=180&section=header&text=¡Hola!,%20soy%20Airton%20(Oso)%20👋&fontSize=35&animation=fadeIn&fontColor=fff" alt="Banner de Bienvenida" />
-</p>
+<h2 data-importer="text" align="center">Hola, soy Oso</h2>
 
-## 🚀 Sobre Mí
-Estudiante de **Ingeniería de Sistemas en la UNMSM**. Me apasiona transformar la lógica y el código en soluciones eficientes. Tengo un fuerte enfoque hacia la arquitectura de software y el manejo de datos, buscando siempre el equilibrio perfecto entre la precisión técnica y la creatividad.
+###
 
----
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/airtonmamanih-lang/airtonmamanih-lang/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=es&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=airtonmamanih-lang&locale=es&mode=weekly&theme=aura&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://raw.githubusercontent.com/airtonmamanih-lang/airtonmamanih-lang/languages-output/languages.svg?locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=aura&hide_border=true" height="150" alt="languages graph"  />
+</div>
 
-## 🛠️ Stack Tecnológico & Herramientas
+###
 
-### 💻 Desarrollo Backend & Frontend
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-</p>
+<img data-importer="image" align="right" height="200" src="https://media.tenor.com/Nbn9tD5T7BoAAAAM/bear-baby-bear.gif"  />
 
-### ☁️ Infraestructura & Control de Versiones
-<p align="left">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</p>
+###
 
----
+<div data-importer="techs" align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/git/F05032" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+</div>
 
-## 🤝 Conectemos
+###
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Apodo-Oso%20🐻-007ACC?style=for-the-badge&logoColor=white" alt="Apodo Oso" />
-  <img src="https://img.shields.io/badge/Especialidad-Bases%20de%20Datos%20🛢️-F29111?style=for-the-badge&logoColor=white" alt="Data" />
-  <img src="https://img.shields.io/badge/Pasión-Música%20%26%20Guitarra%20🎸-E91429?style=for-the-badge&logoColor=white" alt="Música" />
-</p>
-
-<br />
-
-<table align="center" width="100%">
-  <tr>
-    <!-- Columna Izquierda: Perfil Técnico -->
-    <td width="50%" valign="top">
-      <h3>🚀 Perfil & Enfoque</h3>
-      <ul>
-        <li>🎓 <b>Formación:</b> Ingeniería de Sistemas en la UNMSM.</li>
-        <li>🎯 <b>Meta Profesional:</b> Apuntando a convertirme en Especialista / Ingeniero de Bases de Datos.</li>
-        <li>📚 <b>Aprendiendo activamente:</b> React para el frontend y Nest.js para el backend.</li>
-      </ul>
-    </td>
-    <!-- Columna Derecha: Lado Humano/Hobby -->
-    <td width="50%" valign="top">
-      <h3>🎸 El Lado Creativo</h3>
-      <ul>
-        <li>🐻 <b>En confianza:</b> En el mundo real soy Airton, pero dime <b>Oso</b> y con eso basta.</li>
-        <li>🎶 <b>Hobby:</b> Apasionado de la música; si no estoy optimizando queries o tirando código, probablemente me encuentres tocando la guitarra.</li>
-        <li>💬 <b>Hablemos de:</b> Programación, lógica, modelado de datos y desarrollo web.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <i>"El código es arte, y la base de datos es el ritmo que lo sostiene todo."</i>
-</p>
-
----
-
-## 📊 Mi Actividad en GitHub
-
-<p align="center">
-  <a href="https://github.com/airtonmamanih-lang">
-    <img src="https://streak-stats.demolab.com/?user=airtonmamanih-lang&theme=tokyonight&hide_border=true" alt="Racha de contribuciones" />
+<div data-importer="socials" align="center">
+  <a href="https://www.instagram.com/stayfree_7?igsh=eGl5b3c4Mjc4dWl2" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-</p>
+  <a href="airton.mamanih@unmsm.edu.pe" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://discord.gg/5HwJNG4b" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+  <a href="https://open.spotify.com/user/31kerhndzxtpak3fxea4qnnnozga?si=1d62fe5b5402440d" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Spotify&logo=spotify&label=&color=000000&logoColor=1DB954&labelColor=&style=for-the-badge" height="35" alt="spotify logo"  />
+  </a>
+  <a href="950753039" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
+  </a>
+  <a href="https://youtube.com/@tyron.2007?si=0K1uoNj5Cu0xguMN" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  </a>
+</div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Contribuciones-Ver%20Gráfico%20Abajo-007ACC?style=for-the-badge&logo=github" alt="GitHub Info" />
-</p>
+###
+
+<br clear="both">
+
+<img data-importer="snake" src="https://raw.githubusercontent.com/airtonmamanih-lang/airtonmamanih-lang/snake-output/snake.svg" alt="Snake animation" />
+
+###
