@@ -1,3 +1,7 @@
+<img data-importer="image" align="right" height="65" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/UNMSM_coatofarms_seal.svg/1920px-UNMSM_coatofarms_seal.svg.png"  />
+
+###
+
 <h2 data-importer="text" align="center">Hola, soy Oso</h2>
 
 ###
@@ -10,7 +14,11 @@
 
 ###
 
-<img data-importer="image" align="right" height="150" src="https://media.tenor.com/Nbn9tD5T7BoAAAAM/bear-baby-bear.gif"  />
+<img data-importer="image" align="right" height="0" src="https://media.tenor.com/Nbn9tD5T7BoAAAAM/bear-baby-bear.gif"  />
+
+###
+
+<img data-importer="image" align="left" height="100" src="https://media.tenor.com/Nbn9tD5T7BoAAAAM/bear-baby-bear.gif"  />
 
 ###
 
