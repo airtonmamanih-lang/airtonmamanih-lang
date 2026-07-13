@@ -61,4 +61,8 @@
 
 <img data-importer="snake" src="https://raw.githubusercontent.com/airtonmamanih-lang/airtonmamanih-lang/snake-output/snake.svg" alt="Snake animation" />
 
+<<<<<<< HEAD
 ###
+=======
+###
+>>>>>>> 277c316d0543d65d09e6a1784e5bf2fd4a13555c
