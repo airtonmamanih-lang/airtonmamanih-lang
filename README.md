@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/¡Hola!,%20soy%20Airton%20(Oso)-👋-007ACC?style=for-the-badge&labelColor=007ACC&color=ffffff&logo=github&logoColor=ffffff" alt="Banner de Bienvenida de Airton Oso" width="100%" />
+  <img src="https://capsule-render.vercel.app/type=waving&color=007ACC&height=180&section=header&text=¡Hola!,%20soy%20Airton%20(Oso)%20👋&fontSize=35&animation=fadeIn&fontColor=fff" alt="Banner de Bienvenida" />
 </p>
 
 ## 🚀 Sobre Mí
@@ -65,14 +65,14 @@ Estudiante de **Ingeniería de Sistemas en la UNMSM**. Me apasiona transformar l
 
 ---
 
-## 📈 Mi Actividad en GitHub
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Contribuciones-Ver%20Gráfico%20Abajo-007ACC?style=for-the-badge&logo=github" alt="Ver Gráfico de Contribuciones" />
-</p>
+## 📊 Mi Actividad en GitHub
 
 <p align="center">
   <a href="https://github.com/airtonmamanih-lang">
-    <img src="https://ghchart.rshah.org/airtonmamanih-lang" alt="Gráfico de Contribuciones de GitHub de Airton" />
+    <img src="https://streak-stats.demolab.com/?user=airtonmamanih-lang&theme=tokyonight&hide_border=true" alt="Racha de contribuciones" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Contribuciones-Ver%20Gráfico%20Abajo-007ACC?style=for-the-badge&logo=github" alt="GitHub Info" />
 </p>
