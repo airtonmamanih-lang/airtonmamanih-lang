@@ -3,14 +3,14 @@
 ###
 
 <div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/airtonmamanih-lang/airtonmamanih-lang/stats-output/stats.svg" height="195" alt="stats graph" />
-  <img src="https://streak-stats.demolab.com?user=airtonmamanih-lang&locale=es&mode=weekly&theme=aura&hide_border=true&border_radius=5" height="195" alt="streak graph" />
-  <img src="https://raw.githubusercontent.com/airtonmamanih-lang/airtonmamanih-lang/languages-output/languages.svg" height="195" alt="languages graph" />
+  <img src="https://raw.githubusercontent.com/airtonmamanih-lang/airtonmamanih-lang/stats-output/stats.svg" height="225" alt="stats graph" />
+  <img src="https://streak-stats.demolab.com?user=airtonmamanih-lang&locale=es&mode=weekly&theme=aura&hide_border=true&border_radius=5" height="225" alt="streak graph" />
+  <img src="https://raw.githubusercontent.com/airtonmamanih-lang/airtonmamanih-lang/languages-output/languages.svg" height="225" alt="languages graph" />
 </div>
 
 ###
 
-<img data-importer="image" align="right" height="200" src="https://media.tenor.com/Nbn9tD5T7BoAAAAM/bear-baby-bear.gif" alt="oso animado" />
+<img data-importer="image" align="right" height="170" src="https://media.tenor.com/Nbn9tD5T7BoAAAAM/bear-baby-bear.gif" alt="oso animado" />
 
 ###
 
