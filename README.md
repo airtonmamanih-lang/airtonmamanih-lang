@@ -1,78 +1,88 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/¡Hola!,%20soy%20Airton%20(Oso)-👋-007ACC?style=for-the-badge&labelColor=007ACC&color=ffffff&logo=github&logoColor=ffffff" alt="Banner de Bienvenida de Airton Oso" width="100%" />
+  <img src="https://img.shields.io/badge/🟢%20STATUS%3A%20ONLINE-%5B%20OSO%20.EXE%20%5D-00ffcc?style=for-the-badge&labelColor=1a1a2e&color=00ffcc" alt="Status" />
+  <img src="https://img.shields.io/badge/LEVEL-20-ff007f?style=for-the-badge&labelColor=1a1a2e&color=ff007f" alt="Level" />
 </p>
 
-## 🚀 Sobre Mí
-Estudiante de **Ingeniería de Sistemas en la UNMSM**. Me apasiona transformar la lógica y el código en soluciones eficientes. Tengo un fuerte enfoque hacia la arquitectura de software y el manejo de datos, buscando siempre el equilibrio perfecto entre la precisión técnica y la creatividad.
+<p align="center">
+  <img src="https://img.shields.io/badge/%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%20AIRTON%20%5F%20OSOS%20%5F%20REALM%20%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE%E2%96%AE-00e5ff?style=for-the-badge&labelColor=0f111a&color=00e5ff" alt="Gamer Banner" width="100%" />
+</p>
+
+## 📂 `root@oso:~# cat about_me.md`
+> **SYSTEMS ENGINEERING STUDENT @ UNMSM** 🎓
+> Apasionado por hackear la lógica, optimizar sistemas y compilar código estructurado. Desarrollador enfocado en soluciones backend/frontend y con una fuerte inclinación hacia la arquitectura y administración de bases de datos de alto rendimiento.
 
 ---
 
-## 🛠️ Stack Tecnológico & Herramientas
+## 🛠️ `[ TECH_STACK ]` // LOADED_
 
-### 💻 Desarrollo Backend & Frontend
+### ⚡ FRONTEND & BACKEND CORE
 <p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS" />
+  <img src="https://img.shields.io/badge/React-00f2fe?style=for-the-badge&logo=react&logoColor=00f2fe&labelColor=0f111a" alt="React" />
+  <img src="https://img.shields.io/badge/NestJS-ff007f?style=for-the-badge&logo=nestjs&logoColor=ff007f&labelColor=0f111a" alt="NestJS" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
 </p>
 
-### ☁️ Infraestructura & Control de Versiones
+### ☁️ INFRAESTRUCTURA & CONTROL
 <p align="left">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=ff9900" alt="AWS" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=00ffcc&labelColor=101010" alt="GitHub" />
 </p>
 
 ---
 
-## 🤝 Conectemos
+## 🎮 `[ PLAYER_STATS ]` // CONECTEMOS_
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Apodo-Oso%20🐻-007ACC?style=for-the-badge&logoColor=white" alt="Apodo Oso" />
-  <img src="https://img.shields.io/badge/Especialidad-Bases%20de%20Datos%20🛢️-F29111?style=for-the-badge&logoColor=white" alt="Data" />
-  <img src="https://img.shields.io/badge/Pasión-Música%20%26%20Guitarra%20🎸-E91429?style=for-the-badge&logoColor=white" alt="Música" />
+  <img src="https://img.shields.io/badge/IGN-EL%20OSO%20%F0%9F%90%BB-00f2fe?style=for-the-badge&labelColor=0f111a&color=00f2fe" alt="Apodo" />
+  <img src="https://img.shields.io/badge/CLASS-DATA%20ENGINEER%20%F0%9F%93%BD%EF%B8%8F-ff9f43?style=for-the-badge&labelColor=0f111a&color=ff9f43" alt="Especialidad" />
+  <img src="https://img.shields.io/badge/GUILD-UNMSM%20%F0%9F%8F%AB-ff007f?style=for-the-badge&labelColor=0f111a&color=ff007f" alt="Universidad" />
 </p>
 
 <br />
 
-<table align="center" width="100%">
+<table align="center" width="100%" style="border-color: #00f2fe; background-color: #0f111a;">
   <tr>
     <!-- Columna Izquierda: Perfil Técnico -->
-    <td width="50%" valign="top">
-      <h3>🚀 Perfil & Enfoque</h3>
+    <td width="50%" valign="top" style="border: 1px solid #00f2fe; padding: 10px;">
+      <h3 style="color: #00f2fe;">👾 QUEST_LOG (Objetivos)</h3>
       <ul>
-        <li>🎓 <b>Formación:</b> Ingeniería de Sistemas en la UNMSM.</li>
-        <li>🎯 <b>Meta Profesional:</b> Apuntando a convertirme en Especialista / Ingeniero de Bases de Datos.</li>
-        <li>📚 <b>Aprendiendo activamente:</b> React para el frontend y Nest.js para el backend.</li>
+        <li>🧬 <b>Main Quest:</b> Convertirme en Ingeniero / Especialista de Bases de Datos.</li>
+        <li>⚔️ <b>Side Quest:</b> Dominar el ecosistema de Nest.js y React al 100%.</li>
+        <li>🔮 <b>Atributos:</b> Lógica algorítmica, modelado relacional y desarrollo web estructurado.</li>
       </ul>
     </td>
     <!-- Columna Derecha: Lado Humano/Hobby -->
-    <td width="50%" valign="top">
-      <h3>🎸 El Lado Creativo</h3>
+    <td width="50%" valign="top" style="border: 1px solid #ff007f; padding: 10px;">
+      <h3 style="color: #ff007f;">🎸 CO_OP (Lado Creativo)</h3>
       <ul>
-        <li>🐻 <b>En confianza:</b> En el mundo real soy Airton, pero dime <b>Oso</b> y con eso basta.</li>
-        <li>🎶 <b>Hobby:</b> Apasionado de la música; si no estoy optimizando queries o tirando código, probablemente me encuentres tocando la guitarra.</li>
-        <li>💬 <b>Hablemos de:</b> Programación, lógica, modelado de datos y desarrollo web.</li>
+        <li>🐻 <b>User ID:</b> En producción soy Airton, pero en el servidor de la vida dime <b>Oso</b>.</li>
+        <li>🎵 <b>Equipamiento:</b> Si el IDE está cerrado, mi herramienta principal es la <b>guitarra eléctrica</b>.</li>
+        <li>💬 <b>Party Chat:</b> Hablemos sobre queries óptimas, bugs extraños, frameworks o buena música.</li>
       </ul>
     </td>
   </tr>
 </table>
 
-<p align="center">
-  <i>"El código es arte, y la base de datos es el ritmo que lo sostiene todo."</i>
+<p align="center" style="color: #00ffcc;">
+  <code>[SYSTEM_MESSAGE] "El código es arte, y la base de datos es el ritmo que lo sostiene todo."</code>
 </p>
 
 ---
 
-## 📈 Mi Actividad en GitHub
+## 📈 `[ CONTRIBUTION_GRAPH ]` // LOGS_
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Contribuciones-Ver%20Gráfico%20Abajo-007ACC?style=for-the-badge&logo=github" alt="Ver Gráfico de Contribuciones" />
+  <img src="https://img.shields.io/badge/GRID_ACTIVITY-REFRESHING...-00ffcc?style=for-the-badge&labelColor=0f111a" alt="Activity Grid" />
 </p>
 
 <p align="center">
   <a href="https://github.com/airtonmamanih-lang">
-    <img src="https://ghchart.rshah.org/airtonmamanih-lang" alt="Gráfico de Contribuciones de GitHub de Airton" />
+    <img src="https://ghchart.rshah.org/00ffcc/airtonmamanih-lang" alt="Cyberpunk Contribution Chart" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PRESS%20START%20TO%20COLLABORATE-ffff00?style=for-the-badge&labelColor=000000" alt="Press Start" />
 </p>
