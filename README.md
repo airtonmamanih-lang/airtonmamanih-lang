@@ -12,9 +12,7 @@
 
 <img data-importer="image" align="right" height="170" src="https://media.tenor.com/Nbn9tD5T7BoAAAAM/bear-baby-bear.gif" alt="oso animado" />
 
-###
-
-<div data-importer="techs" align="center">
+<div data-importer="techs" align="left" style="margin-bottom: 15px; padding-left: 60px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
@@ -32,14 +30,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo" />
 </div>
 
-###
-
-<div data-importer="socials" align="center">
+<div data-importer="socials" align="left" style="padding-left: 20px;">
   <a href="https://www.instagram.com/stayfree_7?igsh=eGl5b3c4Mjc4dWl2" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="35" alt="instagram logo" />
-  </a>
-  <a href="mailto:airton.mamanih@unmsm.edu.pe" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
   <a href="https://discord.gg/5HwJNG4b" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="35" alt="discord logo" />
@@ -47,8 +40,14 @@
   <a href="https://open.spotify.com/user/31kerhndzxtpak3fxea4qnnnozga?si=1d62fe5b5402440d" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Spotify&logo=spotify&label=&color=000000&logoColor=1DB954&style=for-the-badge" height="35" alt="spotify logo" />
   </a>
+  
+  <br />
+  
   <a href="https://wa.me/51950753039" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&style=for-the-badge" height="35" alt="whatsapp logo" />
+  </a>
+  <a href="mailto:airton.mamanih@unmsm.edu.pe" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
   <a href="https://youtube.com/@tyron.2007?si=0K1uoNj5Cu0xguMN" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&style=for-the-badge" height="35" alt="youtube logo" />
