@@ -38,8 +38,9 @@ Estudiante de la Universidad Nacional Mayor de San Marcos, apasionado por la tec
 ---
 
 ## 🤝 Conectemos
-* 🔬 **Actualmente trabajando en:** UNMSM
-* 📚 **Aprendiendo activamente:** React y Nest.js
-* 💬 **Pregúntame sobre:** Programación, lógica y desarrollo web
-* 📬 **Contacto:** Puedes escribirme directamente a través de mi perfil de GitHub o mis redes enlazadas.
-* ⚡ **Fun fact:** ¡Yo sí compré la licencia de WinRAR! 😉
+* 🎓 **Formación:** Estudiante de Ingeniería de Sistemas en la UNMSM.
+* 🎯 **Meta Profesional:** Apuntando a convertirme en Especialista de Bases de Datos.
+* 📚 **Aprendiendo activamente:** React para el frontend y Nest.js para el backend.
+* 💬 **Pregúntame sobre:** Programación, lógica, modelado de datos y desarrollo web.
+* 🎸 **Hobby:** Apasionado de la música; si no estoy tirando código, probablemente me encuentres tocando la guitarra.
+* 🐻 **Fun fact:** En el mundo real soy Airton pero entre confianza dime Oso con eso basta.
