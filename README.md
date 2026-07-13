@@ -1,10 +1,45 @@
-## Hi there 👋
+# ¡Hola! Soy Airton 👋
 
-- 🔭 I’m currently working on UNMSM.
-- 🌱 I’m currently learning React.
-- 👯 I’m looking to collaborate on project.
-- 🤔 I’m looking for help with Nest.js.
-- 💬 Ask me about my favorites programing language.
-- 📫 How to reach me: airtonmamanih-lang.
-- 😄 Pronouns: He.
-- ⚡ Fun fact: I paid for WinRAR.
+## 🚀 Sobre Mí
+Estudiante de la Universidad Nacional Mayor de San Marcos, apasionado por la tecnología, el desarrollo de software y la música. Actualmente enfocado en crear soluciones eficientes y expandir mis habilidades técnicas.
+
+---
+
+## 🛠️ Tecnologías y Herramientas
+
+### Frontend & Backend
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+</p>
+
+### Cloud & Herramientas
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</p>
+
+---
+
+## 📈 Mi Actividad en GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=airtonmamanih-lang&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Estadísticas de GitHub" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=airtonmamanih-lang&theme=tokyonight&hide_border=true" alt="Racha de contribuciones" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=airtonmamanih-lang&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" width="60%" />
+</p>
+
+---
+
+## 🤝 Conectemos
+* 🔬 **Actualmente trabajando en:** UNMSM
+* 📚 **Aprendiendo activamente:** React y Nest.js
+* 💬 **Pregúntame sobre:** Programación, lógica y desarrollo web
+* 📬 **Contacto:** Puedes escribirme directamente a través de mi perfil de GitHub o mis redes enlazadas.
+* ⚡ **Fun fact:** ¡Yo sí compré la licencia de WinRAR! 😉
