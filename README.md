@@ -3,9 +3,9 @@
 ###
 
 <div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/airtonmamanih-lang/airtonmamanih-lang/stats-output/stats.svg" height="150" alt="stats graph" />
-  <img src="https://streak-stats.demolab.com?user=airtonmamanih-lang&locale=es&mode=weekly&theme=aura&hide_border=true&border_radius=5" height="150" alt="streak graph" />
-  <img src="https://raw.githubusercontent.com/airtonmamanih-lang/airtonmamanih-lang/languages-output/languages.svg" height="150" alt="languages graph" />
+  <img src="https://raw.githubusercontent.com/airtonmamanih-lang/airtonmamanih-lang/stats-output/stats.svg" height="195" alt="stats graph" />
+  <img src="https://streak-stats.demolab.com?user=airtonmamanih-lang&locale=es&mode=weekly&theme=aura&hide_border=true&border_radius=5" height="195" alt="streak graph" />
+  <img src="https://raw.githubusercontent.com/airtonmamanih-lang/airtonmamanih-lang/languages-output/languages.svg" height="195" alt="languages graph" />
 </div>
 
 ###
