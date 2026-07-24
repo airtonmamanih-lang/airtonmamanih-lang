@@ -13,7 +13,10 @@ on:
 jobs:
   generate:
     permissions:
-      contents: write
+    contents: write
+    actions: read
+    checks: read
+    pull-requests: read
     runs-on: ubuntu-latest
     timeout-minutes: 5
 
