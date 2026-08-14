@@ -13,10 +13,7 @@ on:
 jobs:
   generate:
     permissions:
-    contents: write
-    actions: read
-    checks: read
-    pull-requests: read
+      contents: write
     runs-on: ubuntu-latest
     timeout-minutes: 5
 
@@ -25,7 +22,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=es&hide_border=true
+          options: username=${{ github.repository_owner }}&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false
           path: dist/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
